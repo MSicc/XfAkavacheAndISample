@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/XfAkavacheAndI/v15
+/XfAkavacheAndI/XfAkavacheAndI/bin/Debug/netstandard2.0
+/XfAkavacheAndI/XfAkavacheAndI/obj
+/XfAkavacheAndI/XfAkavacheAndI.Android/bin/Debug
+/XfAkavacheAndI/XfAkavacheAndI.Android/obj
+/XfAkavacheAndI/XfAkavacheAndI.iOS/bin/iPhoneSimulator/Debug
+/XfAkavacheAndI/XfAkavacheAndI.iOS/obj
+/XfAkavacheAndI/XfAkavacheAndI.UWP/bin/x86/Debug
+/XfAkavacheAndI/XfAkavacheAndI.UWP/obj
